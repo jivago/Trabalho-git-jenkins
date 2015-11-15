@@ -6,7 +6,7 @@
 <meta name="keywords" content="moveis ecologicos">
 <link rel="stylesheet" href="principal.css">
 <title>Móveis Ecológicos</title>
-<script src="js/principal.js"></script>
+<script src="principal.js"></script>
 </head>
 <!-- início do arquivo ... -->
 <body onload="trocaBanner();">
